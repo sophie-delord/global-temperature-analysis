@@ -1,0 +1,2045 @@
+Year,zone,valeur
+1880,Arctic,-0.81
+1881,Arctic,-0.92
+1882,Arctic,-1.41
+1883,Arctic,-0.18
+1884,Arctic,-1.31
+1885,Arctic,-1.5
+1886,Arctic,-1.59
+1887,Arctic,-1.76
+1888,Arctic,-1.3
+1889,Arctic,-0.68
+1890,Arctic,-1.14
+1891,Arctic,-1.11
+1892,Arctic,-1.11
+1893,Arctic,-0.66
+1894,Arctic,-0.97
+1895,Arctic,-0.73
+1896,Arctic,-0.93
+1897,Arctic,-0.59
+1898,Arctic,-1.2
+1899,Arctic,-1.09
+1900,Arctic,-0.6
+1901,Arctic,-0.42
+1902,Arctic,-1.57
+1903,Arctic,-0.27
+1904,Arctic,-0.25
+1905,Arctic,-0.09
+1906,Arctic,-0.31
+1907,Arctic,-0.62
+1908,Arctic,-0.27
+1909,Arctic,-0.77
+1910,Arctic,-0.63
+1911,Arctic,-0.29
+1912,Arctic,-0.53
+1913,Arctic,-0.49
+1914,Arctic,-0.39
+1915,Arctic,-0.62
+1916,Arctic,-0.54
+1917,Arctic,-0.84
+1918,Arctic,-1.04
+1919,Arctic,-0.72
+1920,Arctic,-0.04
+1921,Arctic,-0.03
+1922,Arctic,-0.3
+1923,Arctic,0.17
+1924,Arctic,0.5
+1925,Arctic,-0.06
+1926,Arctic,0.57
+1927,Arctic,0.03
+1928,Arctic,0.66
+1929,Arctic,0.12
+1930,Arctic,0.5
+1931,Arctic,0.56
+1932,Arctic,0.46
+1933,Arctic,-0.15
+1934,Arctic,0.89
+1935,Arctic,0.33
+1936,Arctic,0.41
+1937,Arctic,1.23
+1938,Arctic,1.52
+1939,Arctic,0.55
+1940,Arctic,0.99
+1941,Arctic,0.01
+1942,Arctic,0.72
+1943,Arctic,1.43
+1944,Arctic,1.18
+1945,Arctic,0.65
+1946,Arctic,-0.03
+1947,Arctic,1.07
+1948,Arctic,0.12
+1949,Arctic,0.2
+1950,Arctic,0.18
+1951,Arctic,0.07
+1952,Arctic,0.27
+1953,Arctic,1.03
+1954,Arctic,0.8
+1955,Arctic,-0.23
+1956,Arctic,0.01
+1957,Arctic,0.09
+1958,Arctic,-0.18
+1959,Arctic,0.49
+1960,Arctic,0.34
+1961,Arctic,-0.16
+1962,Arctic,0.44
+1963,Arctic,-0.16
+1964,Arctic,-0.66
+1965,Arctic,-0.28
+1966,Arctic,-0.76
+1967,Arctic,0.36
+1968,Arctic,-0.33
+1969,Arctic,-0.04
+1970,Arctic,-0.2
+1971,Arctic,-0.08
+1972,Arctic,-0.37
+1973,Arctic,0.06
+1974,Arctic,-0.19
+1975,Arctic,0.1
+1976,Arctic,-0.08
+1977,Arctic,0.16
+1978,Arctic,-0.16
+1979,Arctic,-0.61
+1980,Arctic,0.25
+1981,Arctic,1.09
+1982,Arctic,-0.4
+1983,Arctic,0.18
+1984,Arctic,0.36
+1985,Arctic,0.39
+1986,Arctic,0.0
+1987,Arctic,-0.36
+1988,Arctic,0.59
+1989,Arctic,0.32
+1990,Arctic,0.58
+1991,Arctic,0.75
+1992,Arctic,-0.17
+1993,Arctic,0.54
+1994,Arctic,0.34
+1995,Arctic,1.31
+1996,Arctic,0.76
+1997,Arctic,0.76
+1998,Arctic,0.86
+1999,Arctic,0.4
+2000,Arctic,0.97
+2001,Arctic,1.06
+2002,Arctic,1.25
+2003,Arctic,1.5
+2004,Arctic,0.46
+2005,Arctic,1.99
+2006,Arctic,1.76
+2007,Arctic,2.08
+2008,Arctic,1.53
+2009,Arctic,1.42
+2010,Arctic,2.24
+2011,Arctic,2.32
+2012,Arctic,2.13
+2013,Arctic,1.53
+2014,Arctic,2.05
+2015,Arctic,2.02
+2016,Arctic,3.25
+2017,Arctic,2.5
+2018,Arctic,2.16
+2019,Arctic,2.77
+2020,Arctic,2.86
+2021,Arctic,2.07
+2022,Arctic,2.35
+2023,Arctic,2.57
+2024,Arctic,2.9
+2025,Arctic,3.0
+1880,N. Temperate,-0.53
+1881,N. Temperate,-0.49
+1882,N. Temperate,-0.3
+1883,N. Temperate,-0.57
+1884,N. Temperate,-0.66
+1885,N. Temperate,-0.7
+1886,N. Temperate,-0.52
+1887,N. Temperate,-0.52
+1888,N. Temperate,-0.45
+1889,N. Temperate,-0.24
+1890,N. Temperate,-0.58
+1891,N. Temperate,-0.34
+1892,N. Temperate,-0.66
+1893,N. Temperate,-0.55
+1894,N. Temperate,-0.34
+1895,N. Temperate,-0.54
+1896,N. Temperate,-0.39
+1897,N. Temperate,-0.48
+1898,N. Temperate,-0.26
+1899,N. Temperate,-0.11
+1900,N. Temperate,-0.18
+1901,N. Temperate,-0.13
+1902,N. Temperate,-0.53
+1903,N. Temperate,-0.44
+1904,N. Temperate,-0.62
+1905,N. Temperate,-0.25
+1906,N. Temperate,-0.08
+1907,N. Temperate,-0.74
+1908,N. Temperate,-0.56
+1909,N. Temperate,-0.64
+1910,N. Temperate,-0.25
+1911,N. Temperate,-0.43
+1912,N. Temperate,-0.8
+1913,N. Temperate,-0.34
+1914,N. Temperate,-0.18
+1915,N. Temperate,-0.18
+1916,N. Temperate,-0.56
+1917,N. Temperate,-0.52
+1918,N. Temperate,-0.29
+1919,N. Temperate,-0.57
+1920,N. Temperate,-0.22
+1921,N. Temperate,0.16
+1922,N. Temperate,-0.42
+1923,N. Temperate,-0.16
+1924,N. Temperate,-0.26
+1925,N. Temperate,0.16
+1926,N. Temperate,0.15
+1927,N. Temperate,-0.23
+1928,N. Temperate,-0.18
+1929,N. Temperate,-0.62
+1930,N. Temperate,0.04
+1931,N. Temperate,-0.04
+1932,N. Temperate,0.19
+1933,N. Temperate,-0.47
+1934,N. Temperate,0.31
+1935,N. Temperate,-0.05
+1936,N. Temperate,0.11
+1937,N. Temperate,0.03
+1938,N. Temperate,0.39
+1939,N. Temperate,0.28
+1940,N. Temperate,-0.02
+1941,N. Temperate,-0.1
+1942,N. Temperate,-0.07
+1943,N. Temperate,0.28
+1944,N. Temperate,0.47
+1945,N. Temperate,-0.02
+1946,N. Temperate,-0.05
+1947,N. Temperate,-0.13
+1948,N. Temperate,0.32
+1949,N. Temperate,0.17
+1950,N. Temperate,-0.3
+1951,N. Temperate,0.01
+1952,N. Temperate,-0.09
+1953,N. Temperate,0.36
+1954,N. Temperate,-0.21
+1955,N. Temperate,-0.11
+1956,N. Temperate,-0.48
+1957,N. Temperate,0.22
+1958,N. Temperate,0.14
+1959,N. Temperate,0.18
+1960,N. Temperate,-0.07
+1961,N. Temperate,0.37
+1962,N. Temperate,0.3
+1963,N. Temperate,0.31
+1964,N. Temperate,-0.2
+1965,N. Temperate,-0.24
+1966,N. Temperate,-0.19
+1967,N. Temperate,0.26
+1968,N. Temperate,-0.02
+1969,N. Temperate,-0.61
+1970,N. Temperate,-0.13
+1971,N. Temperate,0.01
+1972,N. Temperate,-0.47
+1973,N. Temperate,0.27
+1974,N. Temperate,-0.07
+1975,N. Temperate,0.39
+1976,N. Temperate,-0.32
+1977,N. Temperate,0.24
+1978,N. Temperate,0.04
+1979,N. Temperate,0.07
+1980,N. Temperate,0.02
+1981,N. Temperate,0.79
+1982,N. Temperate,0.09
+1983,N. Temperate,0.69
+1984,N. Temperate,0.08
+1985,N. Temperate,-0.26
+1986,N. Temperate,0.28
+1987,N. Temperate,0.13
+1988,N. Temperate,0.57
+1989,N. Temperate,0.69
+1990,N. Temperate,0.88
+1991,N. Temperate,0.66
+1992,N. Temperate,0.44
+1993,N. Temperate,0.29
+1994,N. Temperate,0.5
+1995,N. Temperate,0.98
+1996,N. Temperate,0.17
+1997,N. Temperate,0.9
+1998,N. Temperate,0.94
+1999,N. Temperate,0.8
+2000,N. Temperate,0.8
+2001,N. Temperate,0.86
+2002,N. Temperate,1.0
+2003,N. Temperate,0.98
+2004,N. Temperate,0.95
+2005,N. Temperate,1.22
+2006,N. Temperate,1.06
+2007,N. Temperate,1.32
+2008,N. Temperate,1.07
+2009,N. Temperate,0.6
+2010,N. Temperate,0.87
+2011,N. Temperate,0.94
+2012,N. Temperate,0.93
+2013,N. Temperate,1.04
+2014,N. Temperate,1.14
+2015,N. Temperate,1.48
+2016,N. Temperate,1.43
+2017,N. Temperate,1.38
+2018,N. Temperate,1.09
+2019,N. Temperate,1.43
+2020,N. Temperate,1.8
+2021,N. Temperate,1.36
+2022,N. Temperate,1.5
+2023,N. Temperate,1.86
+2024,N. Temperate,1.95
+2025,N. Temperate,1.99
+1880,N. Subtropics,-0.3
+1881,N. Subtropics,-0.21
+1882,N. Subtropics,-0.17
+1883,N. Subtropics,-0.27
+1884,N. Subtropics,-0.48
+1885,N. Subtropics,-0.47
+1886,N. Subtropics,-0.41
+1887,N. Subtropics,-0.3
+1888,N. Subtropics,-0.25
+1889,N. Subtropics,-0.28
+1890,N. Subtropics,-0.28
+1891,N. Subtropics,-0.36
+1892,N. Subtropics,-0.17
+1893,N. Subtropics,-0.46
+1894,N. Subtropics,-0.18
+1895,N. Subtropics,-0.27
+1896,N. Subtropics,-0.23
+1897,N. Subtropics,-0.25
+1898,N. Subtropics,-0.24
+1899,N. Subtropics,-0.15
+1900,N. Subtropics,-0.16
+1901,N. Subtropics,-0.15
+1902,N. Subtropics,-0.32
+1903,N. Subtropics,-0.57
+1904,N. Subtropics,-0.56
+1905,N. Subtropics,-0.63
+1906,N. Subtropics,-0.39
+1907,N. Subtropics,-0.52
+1908,N. Subtropics,-0.51
+1909,N. Subtropics,-0.44
+1910,N. Subtropics,-0.49
+1911,N. Subtropics,-0.47
+1912,N. Subtropics,-0.5
+1913,N. Subtropics,-0.51
+1914,N. Subtropics,-0.28
+1915,N. Subtropics,-0.18
+1916,N. Subtropics,-0.24
+1917,N. Subtropics,-0.43
+1918,N. Subtropics,-0.35
+1919,N. Subtropics,-0.3
+1920,N. Subtropics,-0.35
+1921,N. Subtropics,-0.1
+1922,N. Subtropics,-0.14
+1923,N. Subtropics,-0.26
+1924,N. Subtropics,-0.23
+1925,N. Subtropics,-0.19
+1926,N. Subtropics,-0.22
+1927,N. Subtropics,-0.13
+1928,N. Subtropics,-0.23
+1929,N. Subtropics,-0.38
+1930,N. Subtropics,-0.11
+1931,N. Subtropics,-0.14
+1932,N. Subtropics,-0.22
+1933,N. Subtropics,-0.13
+1934,N. Subtropics,-0.13
+1935,N. Subtropics,-0.17
+1936,N. Subtropics,-0.26
+1937,N. Subtropics,-0.03
+1938,N. Subtropics,0.03
+1939,N. Subtropics,0.08
+1940,N. Subtropics,-0.1
+1941,N. Subtropics,0.08
+1942,N. Subtropics,0.05
+1943,N. Subtropics,0.11
+1944,N. Subtropics,0.1
+1945,N. Subtropics,0.04
+1946,N. Subtropics,0.17
+1947,N. Subtropics,0.04
+1948,N. Subtropics,0.01
+1949,N. Subtropics,0.05
+1950,N. Subtropics,0.04
+1951,N. Subtropics,0.12
+1952,N. Subtropics,0.19
+1953,N. Subtropics,0.14
+1954,N. Subtropics,0.0
+1955,N. Subtropics,0.24
+1956,N. Subtropics,-0.08
+1957,N. Subtropics,-0.11
+1958,N. Subtropics,0.13
+1959,N. Subtropics,0.05
+1960,N. Subtropics,0.11
+1961,N. Subtropics,0.18
+1962,N. Subtropics,0.14
+1963,N. Subtropics,0.13
+1964,N. Subtropics,-0.11
+1965,N. Subtropics,-0.12
+1966,N. Subtropics,0.09
+1967,N. Subtropics,-0.05
+1968,N. Subtropics,-0.09
+1969,N. Subtropics,-0.17
+1970,N. Subtropics,-0.07
+1971,N. Subtropics,-0.1
+1972,N. Subtropics,-0.25
+1973,N. Subtropics,0.01
+1974,N. Subtropics,-0.18
+1975,N. Subtropics,-0.05
+1976,N. Subtropics,-0.28
+1977,N. Subtropics,0.06
+1978,N. Subtropics,-0.04
+1979,N. Subtropics,0.08
+1980,N. Subtropics,0.02
+1981,N. Subtropics,0.08
+1982,N. Subtropics,-0.09
+1983,N. Subtropics,-0.07
+1984,N. Subtropics,-0.14
+1985,N. Subtropics,-0.02
+1986,N. Subtropics,0.03
+1987,N. Subtropics,0.12
+1988,N. Subtropics,0.24
+1989,N. Subtropics,0.25
+1990,N. Subtropics,0.49
+1991,N. Subtropics,0.26
+1992,N. Subtropics,-0.03
+1993,N. Subtropics,-0.11
+1994,N. Subtropics,0.42
+1995,N. Subtropics,0.32
+1996,N. Subtropics,0.1
+1997,N. Subtropics,0.23
+1998,N. Subtropics,0.66
+1999,N. Subtropics,0.74
+2000,N. Subtropics,0.55
+2001,N. Subtropics,0.68
+2002,N. Subtropics,0.58
+2003,N. Subtropics,0.54
+2004,N. Subtropics,0.66
+2005,N. Subtropics,0.57
+2006,N. Subtropics,0.7
+2007,N. Subtropics,0.69
+2008,N. Subtropics,0.61
+2009,N. Subtropics,0.68
+2010,N. Subtropics,0.74
+2011,N. Subtropics,0.58
+2012,N. Subtropics,0.74
+2013,N. Subtropics,0.69
+2014,N. Subtropics,0.73
+2015,N. Subtropics,0.99
+2016,N. Subtropics,1.07
+2017,N. Subtropics,1.03
+2018,N. Subtropics,1.06
+2019,N. Subtropics,1.0
+2020,N. Subtropics,1.19
+2021,N. Subtropics,1.27
+2022,N. Subtropics,1.27
+2023,N. Subtropics,1.47
+2024,N. Subtropics,1.65
+2025,N. Subtropics,1.53
+1880,N. Tropics,-0.16
+1881,N. Tropics,0.09
+1882,N. Tropics,-0.06
+1883,N. Tropics,-0.19
+1884,N. Tropics,-0.14
+1885,N. Tropics,-0.08
+1886,N. Tropics,-0.23
+1887,N. Tropics,-0.34
+1888,N. Tropics,0.03
+1889,N. Tropics,-0.02
+1890,N. Tropics,-0.3
+1891,N. Tropics,-0.02
+1892,N. Tropics,-0.36
+1893,N. Tropics,-0.45
+1894,N. Tropics,-0.52
+1895,N. Tropics,-0.17
+1896,N. Tropics,0.01
+1897,N. Tropics,0.1
+1898,N. Tropics,-0.22
+1899,N. Tropics,-0.19
+1900,N. Tropics,0.06
+1901,N. Tropics,-0.09
+1902,N. Tropics,-0.05
+1903,N. Tropics,-0.27
+1904,N. Tropics,-0.47
+1905,N. Tropics,-0.14
+1906,N. Tropics,-0.23
+1907,N. Tropics,-0.32
+1908,N. Tropics,-0.45
+1909,N. Tropics,-0.47
+1910,N. Tropics,-0.51
+1911,N. Tropics,-0.45
+1912,N. Tropics,-0.31
+1913,N. Tropics,-0.42
+1914,N. Tropics,-0.14
+1915,N. Tropics,-0.02
+1916,N. Tropics,-0.51
+1917,N. Tropics,-0.7
+1918,N. Tropics,-0.4
+1919,N. Tropics,-0.24
+1920,N. Tropics,-0.39
+1921,N. Tropics,-0.31
+1922,N. Tropics,-0.34
+1923,N. Tropics,-0.33
+1924,N. Tropics,-0.28
+1925,N. Tropics,-0.29
+1926,N. Tropics,-0.01
+1927,N. Tropics,-0.15
+1928,N. Tropics,-0.16
+1929,N. Tropics,-0.29
+1930,N. Tropics,-0.1
+1931,N. Tropics,0.09
+1932,N. Tropics,-0.2
+1933,N. Tropics,-0.29
+1934,N. Tropics,-0.27
+1935,N. Tropics,-0.18
+1936,N. Tropics,-0.06
+1937,N. Tropics,0.0
+1938,N. Tropics,-0.19
+1939,N. Tropics,-0.13
+1940,N. Tropics,0.25
+1941,N. Tropics,0.53
+1942,N. Tropics,0.1
+1943,N. Tropics,-0.12
+1944,N. Tropics,0.1
+1945,N. Tropics,0.1
+1946,N. Tropics,-0.03
+1947,N. Tropics,-0.03
+1948,N. Tropics,-0.23
+1949,N. Tropics,-0.23
+1950,N. Tropics,-0.3
+1951,N. Tropics,-0.01
+1952,N. Tropics,-0.01
+1953,N. Tropics,0.08
+1954,N. Tropics,-0.14
+1955,N. Tropics,-0.29
+1956,N. Tropics,-0.29
+1957,N. Tropics,0.06
+1958,N. Tropics,0.26
+1959,N. Tropics,0.07
+1960,N. Tropics,0.06
+1961,N. Tropics,-0.07
+1962,N. Tropics,-0.04
+1963,N. Tropics,0.13
+1964,N. Tropics,-0.14
+1965,N. Tropics,-0.08
+1966,N. Tropics,0.16
+1967,N. Tropics,-0.11
+1968,N. Tropics,-0.02
+1969,N. Tropics,0.35
+1970,N. Tropics,0.06
+1971,N. Tropics,-0.3
+1972,N. Tropics,0.07
+1973,N. Tropics,0.08
+1974,N. Tropics,-0.23
+1975,N. Tropics,-0.31
+1976,N. Tropics,-0.13
+1977,N. Tropics,0.1
+1978,N. Tropics,0.1
+1979,N. Tropics,0.26
+1980,N. Tropics,0.33
+1981,N. Tropics,0.22
+1982,N. Tropics,0.25
+1983,N. Tropics,0.29
+1984,N. Tropics,0.07
+1985,N. Tropics,0.04
+1986,N. Tropics,0.18
+1987,N. Tropics,0.55
+1988,N. Tropics,0.32
+1989,N. Tropics,0.07
+1990,N. Tropics,0.38
+1991,N. Tropics,0.33
+1992,N. Tropics,0.2
+1993,N. Tropics,0.29
+1994,N. Tropics,0.28
+1995,N. Tropics,0.4
+1996,N. Tropics,0.31
+1997,N. Tropics,0.5
+1998,N. Tropics,0.6
+1999,N. Tropics,0.16
+2000,N. Tropics,0.21
+2001,N. Tropics,0.4
+2002,N. Tropics,0.55
+2003,N. Tropics,0.61
+2004,N. Tropics,0.56
+2005,N. Tropics,0.62
+2006,N. Tropics,0.57
+2007,N. Tropics,0.45
+2008,N. Tropics,0.33
+2009,N. Tropics,0.65
+2010,N. Tropics,0.72
+2011,N. Tropics,0.39
+2012,N. Tropics,0.48
+2013,N. Tropics,0.58
+2014,N. Tropics,0.69
+2015,N. Tropics,0.98
+2016,N. Tropics,0.96
+2017,N. Tropics,0.86
+2018,N. Tropics,0.74
+2019,N. Tropics,0.91
+2020,N. Tropics,0.88
+2021,N. Tropics,0.72
+2022,N. Tropics,0.63
+2023,N. Tropics,1.08
+2024,N. Tropics,1.22
+2025,N. Tropics,0.85
+1880,S. Tropics,-0.11
+1881,S. Tropics,0.1
+1882,S. Tropics,-0.05
+1883,S. Tropics,-0.16
+1884,S. Tropics,-0.17
+1885,S. Tropics,-0.21
+1886,S. Tropics,-0.19
+1887,S. Tropics,-0.31
+1888,S. Tropics,0.14
+1889,S. Tropics,0.15
+1890,S. Tropics,-0.47
+1891,S. Tropics,-0.17
+1892,S. Tropics,-0.26
+1893,S. Tropics,-0.31
+1894,S. Tropics,-0.2
+1895,S. Tropics,-0.01
+1896,S. Tropics,0.14
+1897,S. Tropics,0.19
+1898,S. Tropics,-0.27
+1899,S. Tropics,-0.09
+1900,S. Tropics,0.24
+1901,S. Tropics,-0.03
+1902,S. Tropics,-0.07
+1903,S. Tropics,-0.35
+1904,S. Tropics,-0.5
+1905,S. Tropics,-0.07
+1906,S. Tropics,-0.19
+1907,S. Tropics,-0.32
+1908,S. Tropics,-0.47
+1909,S. Tropics,-0.54
+1910,S. Tropics,-0.51
+1911,S. Tropics,-0.46
+1912,S. Tropics,-0.12
+1913,S. Tropics,-0.16
+1914,S. Tropics,-0.03
+1915,S. Tropics,-0.03
+1916,S. Tropics,-0.42
+1917,S. Tropics,-0.59
+1918,S. Tropics,-0.3
+1919,S. Tropics,-0.18
+1920,S. Tropics,-0.14
+1921,S. Tropics,-0.23
+1922,S. Tropics,-0.33
+1923,S. Tropics,-0.29
+1924,S. Tropics,-0.26
+1925,S. Tropics,-0.22
+1926,S. Tropics,0.01
+1927,S. Tropics,-0.19
+1928,S. Tropics,-0.17
+1929,S. Tropics,-0.29
+1930,S. Tropics,-0.13
+1931,S. Tropics,0.05
+1932,S. Tropics,-0.14
+1933,S. Tropics,-0.29
+1934,S. Tropics,-0.25
+1935,S. Tropics,-0.2
+1936,S. Tropics,-0.21
+1937,S. Tropics,-0.12
+1938,S. Tropics,-0.27
+1939,S. Tropics,-0.13
+1940,S. Tropics,0.29
+1941,S. Tropics,0.43
+1942,S. Tropics,0.03
+1943,S. Tropics,-0.07
+1944,S. Tropics,0.26
+1945,S. Tropics,0.24
+1946,S. Tropics,-0.08
+1947,S. Tropics,-0.09
+1948,S. Tropics,-0.14
+1949,S. Tropics,-0.15
+1950,S. Tropics,-0.28
+1951,S. Tropics,-0.12
+1952,S. Tropics,0.04
+1953,S. Tropics,0.06
+1954,S. Tropics,-0.29
+1955,S. Tropics,-0.38
+1956,S. Tropics,-0.37
+1957,S. Tropics,0.1
+1958,S. Tropics,0.15
+1959,S. Tropics,0.08
+1960,S. Tropics,-0.02
+1961,S. Tropics,0.0
+1962,S. Tropics,-0.05
+1963,S. Tropics,0.1
+1964,S. Tropics,-0.15
+1965,S. Tropics,0.02
+1966,S. Tropics,-0.01
+1967,S. Tropics,-0.17
+1968,S. Tropics,-0.11
+1969,S. Tropics,0.32
+1970,S. Tropics,0.07
+1971,S. Tropics,-0.22
+1972,S. Tropics,0.27
+1973,S. Tropics,0.3
+1974,S. Tropics,-0.17
+1975,S. Tropics,-0.17
+1976,S. Tropics,-0.1
+1977,S. Tropics,0.22
+1978,S. Tropics,0.05
+1979,S. Tropics,0.27
+1980,S. Tropics,0.29
+1981,S. Tropics,0.14
+1982,S. Tropics,0.29
+1983,S. Tropics,0.57
+1984,S. Tropics,0.29
+1985,S. Tropics,0.13
+1986,S. Tropics,0.27
+1987,S. Tropics,0.62
+1988,S. Tropics,0.42
+1989,S. Tropics,0.19
+1990,S. Tropics,0.36
+1991,S. Tropics,0.41
+1992,S. Tropics,0.37
+1993,S. Tropics,0.36
+1994,S. Tropics,0.34
+1995,S. Tropics,0.44
+1996,S. Tropics,0.32
+1997,S. Tropics,0.52
+1998,S. Tropics,0.79
+1999,S. Tropics,0.25
+2000,S. Tropics,0.28
+2001,S. Tropics,0.44
+2002,S. Tropics,0.64
+2003,S. Tropics,0.67
+2004,S. Tropics,0.54
+2005,S. Tropics,0.62
+2006,S. Tropics,0.55
+2007,S. Tropics,0.48
+2008,S. Tropics,0.42
+2009,S. Tropics,0.71
+2010,S. Tropics,0.65
+2011,S. Tropics,0.35
+2012,S. Tropics,0.57
+2013,S. Tropics,0.58
+2014,S. Tropics,0.65
+2015,S. Tropics,0.94
+2016,S. Tropics,1.06
+2017,S. Tropics,0.76
+2018,S. Tropics,0.62
+2019,S. Tropics,0.89
+2020,S. Tropics,0.82
+2021,S. Tropics,0.58
+2022,S. Tropics,0.5
+2023,S. Tropics,1.04
+2024,S. Tropics,1.16
+2025,S. Tropics,0.85
+1880,S. Subtropics,-0.04
+1881,S. Subtropics,-0.06
+1882,S. Subtropics,0.01
+1883,S. Subtropics,-0.04
+1884,S. Subtropics,-0.19
+1885,S. Subtropics,-0.33
+1886,S. Subtropics,-0.2
+1887,S. Subtropics,-0.27
+1888,S. Subtropics,-0.31
+1889,S. Subtropics,-0.15
+1890,S. Subtropics,-0.17
+1891,S. Subtropics,-0.18
+1892,S. Subtropics,0.02
+1893,S. Subtropics,0.07
+1894,S. Subtropics,-0.14
+1895,S. Subtropics,-0.19
+1896,S. Subtropics,-0.15
+1897,S. Subtropics,-0.19
+1898,S. Subtropics,-0.27
+1899,S. Subtropics,-0.15
+1900,S. Subtropics,-0.28
+1901,S. Subtropics,-0.27
+1902,S. Subtropics,-0.28
+1903,S. Subtropics,-0.35
+1904,S. Subtropics,-0.37
+1905,S. Subtropics,-0.33
+1906,S. Subtropics,-0.2
+1907,S. Subtropics,-0.21
+1908,S. Subtropics,-0.29
+1909,S. Subtropics,-0.37
+1910,S. Subtropics,-0.33
+1911,S. Subtropics,-0.44
+1912,S. Subtropics,-0.37
+1913,S. Subtropics,-0.28
+1914,S. Subtropics,-0.15
+1915,S. Subtropics,-0.15
+1916,S. Subtropics,-0.23
+1917,S. Subtropics,-0.23
+1918,S. Subtropics,-0.06
+1919,S. Subtropics,-0.15
+1920,S. Subtropics,-0.19
+1921,S. Subtropics,-0.23
+1922,S. Subtropics,-0.24
+1923,S. Subtropics,-0.27
+1924,S. Subtropics,-0.4
+1925,S. Subtropics,-0.25
+1926,S. Subtropics,-0.35
+1927,S. Subtropics,-0.31
+1928,S. Subtropics,-0.29
+1929,S. Subtropics,-0.43
+1930,S. Subtropics,-0.33
+1931,S. Subtropics,-0.42
+1932,S. Subtropics,-0.21
+1933,S. Subtropics,-0.22
+1934,S. Subtropics,-0.16
+1935,S. Subtropics,-0.31
+1936,S. Subtropics,-0.27
+1937,S. Subtropics,-0.19
+1938,S. Subtropics,-0.06
+1939,S. Subtropics,-0.05
+1940,S. Subtropics,0.03
+1941,S. Subtropics,0.03
+1942,S. Subtropics,0.05
+1943,S. Subtropics,0.07
+1944,S. Subtropics,0.18
+1945,S. Subtropics,0.04
+1946,S. Subtropics,-0.22
+1947,S. Subtropics,-0.19
+1948,S. Subtropics,-0.19
+1949,S. Subtropics,-0.17
+1950,S. Subtropics,-0.06
+1951,S. Subtropics,-0.22
+1952,S. Subtropics,-0.1
+1953,S. Subtropics,-0.08
+1954,S. Subtropics,-0.17
+1955,S. Subtropics,-0.16
+1956,S. Subtropics,-0.13
+1957,S. Subtropics,-0.09
+1958,S. Subtropics,-0.08
+1959,S. Subtropics,-0.03
+1960,S. Subtropics,-0.1
+1961,S. Subtropics,0.14
+1962,S. Subtropics,0.09
+1963,S. Subtropics,-0.1
+1964,S. Subtropics,-0.3
+1965,S. Subtropics,-0.23
+1966,S. Subtropics,-0.24
+1967,S. Subtropics,-0.09
+1968,S. Subtropics,-0.14
+1969,S. Subtropics,0.0
+1970,S. Subtropics,0.11
+1971,S. Subtropics,0.03
+1972,S. Subtropics,0.16
+1973,S. Subtropics,0.21
+1974,S. Subtropics,0.21
+1975,S. Subtropics,0.13
+1976,S. Subtropics,0.1
+1977,S. Subtropics,0.21
+1978,S. Subtropics,0.2
+1979,S. Subtropics,0.29
+1980,S. Subtropics,0.35
+1981,S. Subtropics,0.28
+1982,S. Subtropics,0.18
+1983,S. Subtropics,0.21
+1984,S. Subtropics,0.16
+1985,S. Subtropics,0.3
+1986,S. Subtropics,0.25
+1987,S. Subtropics,0.32
+1988,S. Subtropics,0.38
+1989,S. Subtropics,0.36
+1990,S. Subtropics,0.37
+1991,S. Subtropics,0.31
+1992,S. Subtropics,0.2
+1993,S. Subtropics,0.27
+1994,S. Subtropics,0.26
+1995,S. Subtropics,0.29
+1996,S. Subtropics,0.33
+1997,S. Subtropics,0.42
+1998,S. Subtropics,0.39
+1999,S. Subtropics,0.46
+2000,S. Subtropics,0.42
+2001,S. Subtropics,0.58
+2002,S. Subtropics,0.5
+2003,S. Subtropics,0.44
+2004,S. Subtropics,0.48
+2005,S. Subtropics,0.49
+2006,S. Subtropics,0.51
+2007,S. Subtropics,0.5
+2008,S. Subtropics,0.53
+2009,S. Subtropics,0.6
+2010,S. Subtropics,0.63
+2011,S. Subtropics,0.64
+2012,S. Subtropics,0.56
+2013,S. Subtropics,0.63
+2014,S. Subtropics,0.72
+2015,S. Subtropics,0.75
+2016,S. Subtropics,0.67
+2017,S. Subtropics,0.76
+2018,S. Subtropics,0.79
+2019,S. Subtropics,0.74
+2020,S. Subtropics,0.59
+2021,S. Subtropics,0.73
+2022,S. Subtropics,0.79
+2023,S. Subtropics,0.9
+2024,S. Subtropics,0.88
+2025,S. Subtropics,0.97
+1880,S. Temperate,0.05
+1881,S. Temperate,-0.07
+1882,S. Temperate,0.04
+1883,S. Temperate,0.07
+1884,S. Temperate,-0.02
+1885,S. Temperate,-0.15
+1886,S. Temperate,-0.2
+1887,S. Temperate,-0.26
+1888,S. Temperate,-0.22
+1889,S. Temperate,-0.15
+1890,S. Temperate,-0.27
+1891,S. Temperate,-0.24
+1892,S. Temperate,-0.21
+1893,S. Temperate,-0.2
+1894,S. Temperate,-0.35
+1895,S. Temperate,-0.32
+1896,S. Temperate,-0.13
+1897,S. Temperate,-0.27
+1898,S. Temperate,-0.21
+1899,S. Temperate,-0.22
+1900,S. Temperate,-0.29
+1901,S. Temperate,-0.33
+1902,S. Temperate,-0.43
+1903,S. Temperate,-0.4
+1904,S. Temperate,-0.49
+1905,S. Temperate,-0.37
+1906,S. Temperate,-0.22
+1907,S. Temperate,-0.37
+1908,S. Temperate,-0.48
+1909,S. Temperate,-0.52
+1910,S. Temperate,-0.45
+1911,S. Temperate,-0.52
+1912,S. Temperate,-0.29
+1913,S. Temperate,-0.4
+1914,S. Temperate,-0.18
+1915,S. Temperate,-0.23
+1916,S. Temperate,-0.17
+1917,S. Temperate,-0.09
+1918,S. Temperate,-0.22
+1919,S. Temperate,-0.32
+1920,S. Temperate,-0.48
+1921,S. Temperate,-0.38
+1922,S. Temperate,-0.28
+1923,S. Temperate,-0.41
+1924,S. Temperate,-0.45
+1925,S. Temperate,-0.55
+1926,S. Temperate,-0.45
+1927,S. Temperate,-0.45
+1928,S. Temperate,-0.48
+1929,S. Temperate,-0.44
+1930,S. Temperate,-0.46
+1931,S. Temperate,-0.4
+1932,S. Temperate,-0.53
+1933,S. Temperate,-0.48
+1934,S. Temperate,-0.38
+1935,S. Temperate,-0.41
+1936,S. Temperate,-0.32
+1937,S. Temperate,-0.25
+1938,S. Temperate,-0.11
+1939,S. Temperate,-0.18
+1940,S. Temperate,-0.2
+1941,S. Temperate,-0.15
+1942,S. Temperate,-0.05
+1943,S. Temperate,0.0
+1944,S. Temperate,-0.09
+1945,S. Temperate,0.0
+1946,S. Temperate,-0.24
+1947,S. Temperate,-0.08
+1948,S. Temperate,-0.19
+1949,S. Temperate,-0.15
+1950,S. Temperate,-0.16
+1951,S. Temperate,-0.16
+1952,S. Temperate,-0.02
+1953,S. Temperate,-0.24
+1954,S. Temperate,-0.2
+1955,S. Temperate,-0.08
+1956,S. Temperate,0.02
+1957,S. Temperate,-0.02
+1958,S. Temperate,-0.08
+1959,S. Temperate,-0.26
+1960,S. Temperate,-0.07
+1961,S. Temperate,-0.17
+1962,S. Temperate,-0.08
+1963,S. Temperate,-0.17
+1964,S. Temperate,-0.07
+1965,S. Temperate,-0.03
+1966,S. Temperate,-0.14
+1967,S. Temperate,-0.02
+1968,S. Temperate,0.0
+1969,S. Temperate,0.13
+1970,S. Temperate,0.03
+1971,S. Temperate,0.16
+1972,S. Temperate,-0.02
+1973,S. Temperate,0.08
+1974,S. Temperate,-0.08
+1975,S. Temperate,0.14
+1976,S. Temperate,0.22
+1977,S. Temperate,0.31
+1978,S. Temperate,0.13
+1979,S. Temperate,0.33
+1980,S. Temperate,0.37
+1981,S. Temperate,0.39
+1982,S. Temperate,0.32
+1983,S. Temperate,0.41
+1984,S. Temperate,0.32
+1985,S. Temperate,0.44
+1986,S. Temperate,0.25
+1987,S. Temperate,0.25
+1988,S. Temperate,0.2
+1989,S. Temperate,0.3
+1990,S. Temperate,0.37
+1991,S. Temperate,0.29
+1992,S. Temperate,0.33
+1993,S. Temperate,0.39
+1994,S. Temperate,0.23
+1995,S. Temperate,0.15
+1996,S. Temperate,0.28
+1997,S. Temperate,0.36
+1998,S. Temperate,0.31
+1999,S. Temperate,0.19
+2000,S. Temperate,0.1
+2001,S. Temperate,0.24
+2002,S. Temperate,0.31
+2003,S. Temperate,0.24
+2004,S. Temperate,0.23
+2005,S. Temperate,0.18
+2006,S. Temperate,0.19
+2007,S. Temperate,0.07
+2008,S. Temperate,0.08
+2009,S. Temperate,0.15
+2010,S. Temperate,0.2
+2011,S. Temperate,0.19
+2012,S. Temperate,0.2
+2013,S. Temperate,0.23
+2014,S. Temperate,0.19
+2015,S. Temperate,0.2
+2016,S. Temperate,0.28
+2017,S. Temperate,0.38
+2018,S. Temperate,0.41
+2019,S. Temperate,0.41
+2020,S. Temperate,0.4
+2021,S. Temperate,0.33
+2022,S. Temperate,0.41
+2023,S. Temperate,0.46
+2024,S. Temperate,0.54
+2025,S. Temperate,0.55
+1880,Antarctic,0.69
+1881,Antarctic,0.61
+1882,Antarctic,0.64
+1883,Antarctic,0.52
+1884,Antarctic,0.67
+1885,Antarctic,0.84
+1886,Antarctic,0.61
+1887,Antarctic,0.34
+1888,Antarctic,0.17
+1889,Antarctic,0.46
+1890,Antarctic,0.17
+1891,Antarctic,-0.14
+1892,Antarctic,0.11
+1893,Antarctic,-0.03
+1894,Antarctic,-0.36
+1895,Antarctic,-0.57
+1896,Antarctic,0.27
+1897,Antarctic,0.42
+1898,Antarctic,0.39
+1899,Antarctic,0.6
+1900,Antarctic,0.29
+1901,Antarctic,0.28
+1902,Antarctic,-0.03
+1903,Antarctic,-0.49
+1904,Antarctic,-1.31
+1905,Antarctic,-0.33
+1906,Antarctic,-0.71
+1907,Antarctic,-1.19
+1908,Antarctic,0.68
+1909,Antarctic,-0.56
+1910,Antarctic,0.16
+1911,Antarctic,0.06
+1912,Antarctic,-1.63
+1913,Antarctic,-1.03
+1914,Antarctic,-0.36
+1915,Antarctic,-1.98
+1916,Antarctic,-1.04
+1917,Antarctic,0.07
+1918,Antarctic,-0.28
+1919,Antarctic,0.2
+1920,Antarctic,-1.14
+1921,Antarctic,-0.83
+1922,Antarctic,-0.27
+1923,Antarctic,-0.54
+1924,Antarctic,-0.53
+1925,Antarctic,-0.86
+1926,Antarctic,-0.63
+1927,Antarctic,-1.38
+1928,Antarctic,-2.12
+1929,Antarctic,-1.07
+1930,Antarctic,-2.59
+1931,Antarctic,-0.41
+1932,Antarctic,-0.98
+1933,Antarctic,-1.14
+1934,Antarctic,-0.56
+1935,Antarctic,-1.71
+1936,Antarctic,-0.03
+1937,Antarctic,0.37
+1938,Antarctic,-0.86
+1939,Antarctic,-1.6
+1940,Antarctic,-0.05
+1941,Antarctic,-0.46
+1942,Antarctic,-0.9
+1943,Antarctic,1.14
+1944,Antarctic,-0.97
+1945,Antarctic,-1.81
+1946,Antarctic,-0.21
+1947,Antarctic,-0.23
+1948,Antarctic,-1.42
+1949,Antarctic,-2.02
+1950,Antarctic,-0.86
+1951,Antarctic,-0.7
+1952,Antarctic,-0.54
+1953,Antarctic,-1.14
+1954,Antarctic,-0.82
+1955,Antarctic,1.2
+1956,Antarctic,0.77
+1957,Antarctic,0.49
+1958,Antarctic,-0.55
+1959,Antarctic,-0.39
+1960,Antarctic,-0.78
+1961,Antarctic,0.21
+1962,Antarctic,-0.65
+1963,Antarctic,-0.03
+1964,Antarctic,-0.37
+1965,Antarctic,0.0
+1966,Antarctic,0.13
+1967,Antarctic,0.31
+1968,Antarctic,-0.07
+1969,Antarctic,-0.15
+1970,Antarctic,0.35
+1971,Antarctic,0.49
+1972,Antarctic,0.48
+1973,Antarctic,0.35
+1974,Antarctic,0.66
+1975,Antarctic,0.31
+1976,Antarctic,-0.22
+1977,Antarctic,0.28
+1978,Antarctic,0.03
+1979,Antarctic,-0.21
+1980,Antarctic,0.57
+1981,Antarctic,0.62
+1982,Antarctic,-0.11
+1983,Antarctic,0.1
+1984,Antarctic,0.54
+1985,Antarctic,0.07
+1986,Antarctic,-0.09
+1987,Antarctic,0.01
+1988,Antarctic,0.93
+1989,Antarctic,0.41
+1990,Antarctic,0.37
+1991,Antarctic,0.98
+1992,Antarctic,0.41
+1993,Antarctic,-0.28
+1994,Antarctic,-0.02
+1995,Antarctic,0.16
+1996,Antarctic,1.32
+1997,Antarctic,0.04
+1998,Antarctic,0.14
+1999,Antarctic,0.02
+2000,Antarctic,0.27
+2001,Antarctic,0.25
+2002,Antarctic,0.79
+2003,Antarctic,0.37
+2004,Antarctic,-0.04
+2005,Antarctic,0.68
+2006,Antarctic,0.45
+2007,Antarctic,1.28
+2008,Antarctic,0.64
+2009,Antarctic,0.99
+2010,Antarctic,0.54
+2011,Antarctic,1.1
+2012,Antarctic,0.46
+2013,Antarctic,0.88
+2014,Antarctic,0.56
+2015,Antarctic,-0.34
+2016,Antarctic,0.37
+2017,Antarctic,0.52
+2018,Antarctic,0.91
+2019,Antarctic,0.8
+2020,Antarctic,0.85
+2021,Antarctic,0.3
+2022,Antarctic,1.08
+2023,Antarctic,0.62
+2024,Antarctic,0.68
+2025,Antarctic,1.57
+1880,Glob,-0.18
+1881,Glob,-0.1
+1882,Glob,-0.12
+1883,Glob,-0.18
+1884,Glob,-0.29
+1885,Glob,-0.34
+1886,Glob,-0.32
+1887,Glob,-0.37
+1888,Glob,-0.18
+1889,Glob,-0.11
+1890,Glob,-0.36
+1891,Glob,-0.23
+1892,Glob,-0.28
+1893,Glob,-0.32
+1894,Glob,-0.31
+1895,Glob,-0.24
+1896,Glob,-0.12
+1897,Glob,-0.12
+1898,Glob,-0.29
+1899,Glob,-0.19
+1900,Glob,-0.09
+1901,Glob,-0.17
+1902,Glob,-0.29
+1903,Glob,-0.38
+1904,Glob,-0.48
+1905,Glob,-0.27
+1906,Glob,-0.23
+1907,Glob,-0.4
+1908,Glob,-0.44
+1909,Glob,-0.5
+1910,Glob,-0.45
+1911,Glob,-0.45
+1912,Glob,-0.38
+1913,Glob,-0.35
+1914,Glob,-0.16
+1915,Glob,-0.15
+1916,Glob,-0.37
+1917,Glob,-0.47
+1918,Glob,-0.3
+1919,Glob,-0.28
+1920,Glob,-0.28
+1921,Glob,-0.2
+1922,Glob,-0.29
+1923,Glob,-0.27
+1924,Glob,-0.28
+1925,Glob,-0.23
+1926,Glob,-0.11
+1927,Glob,-0.22
+1928,Glob,-0.21
+1929,Glob,-0.37
+1930,Glob,-0.16
+1931,Glob,-0.1
+1932,Glob,-0.17
+1933,Glob,-0.29
+1934,Glob,-0.13
+1935,Glob,-0.2
+1936,Glob,-0.15
+1937,Glob,-0.03
+1938,Glob,0.0
+1939,Glob,-0.02
+1940,Glob,0.12
+1941,Glob,0.18
+1942,Glob,0.06
+1943,Glob,0.08
+1944,Glob,0.2
+1945,Glob,0.09
+1946,Glob,-0.07
+1947,Glob,-0.03
+1948,Glob,-0.11
+1949,Glob,-0.11
+1950,Glob,-0.18
+1951,Glob,-0.07
+1952,Glob,0.01
+1953,Glob,0.08
+1954,Glob,-0.13
+1955,Glob,-0.14
+1956,Glob,-0.19
+1957,Glob,0.05
+1958,Glob,0.06
+1959,Glob,0.03
+1960,Glob,-0.02
+1961,Glob,0.06
+1962,Glob,0.03
+1963,Glob,0.05
+1964,Glob,-0.2
+1965,Glob,-0.11
+1966,Glob,-0.06
+1967,Glob,-0.02
+1968,Glob,-0.08
+1969,Glob,0.05
+1970,Glob,0.03
+1971,Glob,-0.08
+1972,Glob,0.01
+1973,Glob,0.16
+1974,Glob,-0.07
+1975,Glob,-0.01
+1976,Glob,-0.1
+1977,Glob,0.18
+1978,Glob,0.07
+1979,Glob,0.16
+1980,Glob,0.26
+1981,Glob,0.32
+1982,Glob,0.14
+1983,Glob,0.31
+1984,Glob,0.16
+1985,Glob,0.12
+1986,Glob,0.18
+1987,Glob,0.32
+1988,Glob,0.39
+1989,Glob,0.27
+1990,Glob,0.45
+1991,Glob,0.41
+1992,Glob,0.22
+1993,Glob,0.23
+1994,Glob,0.32
+1995,Glob,0.45
+1996,Glob,0.33
+1997,Glob,0.47
+1998,Glob,0.61
+1999,Glob,0.38
+2000,Glob,0.39
+2001,Glob,0.53
+2002,Glob,0.63
+2003,Glob,0.62
+2004,Glob,0.53
+2005,Glob,0.68
+2006,Glob,0.64
+2007,Glob,0.67
+2008,Glob,0.54
+2009,Glob,0.66
+2010,Glob,0.73
+2011,Glob,0.61
+2012,Glob,0.65
+2013,Glob,0.68
+2014,Glob,0.75
+2015,Glob,0.9
+2016,Glob,1.01
+2017,Glob,0.92
+2018,Glob,0.85
+2019,Glob,0.98
+2020,Glob,1.01
+2021,Glob,0.85
+2022,Glob,0.9
+2023,Glob,1.17
+2024,Glob,1.28
+2025,Glob,1.19
+1880,NHem,-0.3
+1881,NHem,-0.2
+1882,NHem,-0.23
+1883,NHem,-0.29
+1884,NHem,-0.44
+1885,NHem,-0.45
+1886,NHem,-0.45
+1887,NHem,-0.45
+1888,NHem,-0.25
+1889,NHem,-0.19
+1890,NHem,-0.4
+1891,NHem,-0.27
+1892,NHem,-0.4
+1893,NHem,-0.48
+1894,NHem,-0.4
+1895,NHem,-0.32
+1896,NHem,-0.22
+1897,NHem,-0.19
+1898,NHem,-0.31
+1899,NHem,-0.23
+1900,NHem,-0.11
+1901,NHem,-0.14
+1902,NHem,-0.35
+1903,NHem,-0.4
+1904,NHem,-0.5
+1905,NHem,-0.31
+1906,NHem,-0.25
+1907,NHem,-0.49
+1908,NHem,-0.47
+1909,NHem,-0.51
+1910,NHem,-0.46
+1911,NHem,-0.44
+1912,NHem,-0.48
+1913,NHem,-0.44
+1914,NHem,-0.21
+1915,NHem,-0.15
+1916,NHem,-0.43
+1917,NHem,-0.59
+1918,NHem,-0.41
+1919,NHem,-0.36
+1920,NHem,-0.31
+1921,NHem,-0.12
+1922,NHem,-0.28
+1923,NHem,-0.23
+1924,NHem,-0.19
+1925,NHem,-0.15
+1926,NHem,0.01
+1927,NHem,-0.14
+1928,NHem,-0.11
+1929,NHem,-0.34
+1930,NHem,-0.02
+1931,NHem,0.04
+1932,NHem,-0.07
+1933,NHem,-0.26
+1934,NHem,-0.01
+1935,NHem,-0.1
+1936,NHem,-0.04
+1937,NHem,0.11
+1938,NHem,0.16
+1939,NHem,0.08
+1940,NHem,0.16
+1941,NHem,0.22
+1942,NHem,0.11
+1943,NHem,0.17
+1944,NHem,0.27
+1945,NHem,0.11
+1946,NHem,0.03
+1947,NHem,0.08
+1948,NHem,-0.02
+1949,NHem,-0.03
+1950,NHem,-0.15
+1951,NHem,0.04
+1952,NHem,0.06
+1953,NHem,0.24
+1954,NHem,-0.02
+1955,NHem,-0.09
+1956,NHem,-0.23
+1957,NHem,0.04
+1958,NHem,0.15
+1959,NHem,0.13
+1960,NHem,0.08
+1961,NHem,0.09
+1962,NHem,0.13
+1963,NHem,0.14
+1964,NHem,-0.19
+1965,NHem,-0.14
+1966,NHem,-0.02
+1967,NHem,0.03
+1968,NHem,-0.07
+1969,NHem,-0.03
+1970,NHem,-0.04
+1971,NHem,-0.15
+1972,NHem,-0.18
+1973,NHem,0.09
+1974,NHem,-0.18
+1975,NHem,-0.05
+1976,NHem,-0.21
+1977,NHem,0.12
+1978,NHem,0.02
+1979,NHem,0.08
+1980,NHem,0.17
+1981,NHem,0.37
+1982,NHem,0.05
+1983,NHem,0.25
+1984,NHem,0.04
+1985,NHem,0.0
+1986,NHem,0.13
+1987,NHem,0.25
+1988,NHem,0.37
+1989,NHem,0.27
+1990,NHem,0.53
+1991,NHem,0.41
+1992,NHem,0.14
+1993,NHem,0.19
+1994,NHem,0.37
+1995,NHem,0.58
+1996,NHem,0.26
+1997,NHem,0.52
+1998,NHem,0.71
+1999,NHem,0.48
+2000,NHem,0.5
+2001,NHem,0.64
+2002,NHem,0.71
+2003,NHem,0.75
+2004,NHem,0.66
+2005,NHem,0.86
+2006,NHem,0.82
+2007,NHem,0.85
+2008,NHem,0.68
+2009,NHem,0.72
+2010,NHem,0.9
+2011,NHem,0.74
+2012,NHem,0.8
+2013,NHem,0.8
+2014,NHem,0.92
+2015,NHem,1.18
+2016,NHem,1.31
+2017,NHem,1.17
+2018,NHem,1.04
+2019,NHem,1.22
+2020,NHem,1.34
+2021,NHem,1.14
+2022,NHem,1.16
+2023,NHem,1.5
+2024,NHem,1.65
+2025,NHem,1.49
+1880,SHem,-0.05
+1881,SHem,0.0
+1882,SHem,-0.01
+1883,SHem,-0.07
+1884,SHem,-0.15
+1885,SHem,-0.24
+1886,SHem,-0.2
+1887,SHem,-0.29
+1888,SHem,-0.11
+1889,SHem,-0.04
+1890,SHem,-0.32
+1891,SHem,-0.19
+1892,SHem,-0.15
+1893,SHem,-0.15
+1894,SHem,-0.22
+1895,SHem,-0.15
+1896,SHem,-0.03
+1897,SHem,-0.05
+1898,SHem,-0.26
+1899,SHem,-0.14
+1900,SHem,-0.07
+1901,SHem,-0.19
+1902,SHem,-0.23
+1903,SHem,-0.37
+1904,SHem,-0.46
+1905,SHem,-0.23
+1906,SHem,-0.21
+1907,SHem,-0.31
+1908,SHem,-0.41
+1909,SHem,-0.48
+1910,SHem,-0.44
+1911,SHem,-0.47
+1912,SHem,-0.26
+1913,SHem,-0.27
+1914,SHem,-0.11
+1915,SHem,-0.14
+1916,SHem,-0.31
+1917,SHem,-0.36
+1918,SHem,-0.21
+1919,SHem,-0.21
+1920,SHem,-0.24
+1921,SHem,-0.27
+1922,SHem,-0.3
+1923,SHem,-0.31
+1924,SHem,-0.36
+1925,SHem,-0.3
+1926,SHem,-0.22
+1927,SHem,-0.3
+1928,SHem,-0.29
+1929,SHem,-0.38
+1930,SHem,-0.29
+1931,SHem,-0.22
+1932,SHem,-0.26
+1933,SHem,-0.32
+1934,SHem,-0.25
+1935,SHem,-0.3
+1936,SHem,-0.26
+1937,SHem,-0.18
+1938,SHem,-0.18
+1939,SHem,-0.13
+1940,SHem,0.09
+1941,SHem,0.16
+1942,SHem,0.01
+1943,SHem,-0.01
+1944,SHem,0.14
+1945,SHem,0.09
+1946,SHem,-0.17
+1947,SHem,-0.13
+1948,SHem,-0.2
+1949,SHem,-0.19
+1950,SHem,-0.21
+1951,SHem,-0.18
+1952,SHem,-0.03
+1953,SHem,-0.07
+1954,SHem,-0.25
+1955,SHem,-0.2
+1956,SHem,-0.16
+1957,SHem,0.06
+1958,SHem,-0.03
+1959,SHem,-0.06
+1960,SHem,-0.13
+1961,SHem,0.03
+1962,SHem,-0.06
+1963,SHem,-0.03
+1964,SHem,-0.2
+1965,SHem,-0.07
+1966,SHem,-0.09
+1967,SHem,-0.08
+1968,SHem,-0.09
+1969,SHem,0.14
+1970,SHem,0.09
+1971,SHem,-0.01
+1972,SHem,0.2
+1973,SHem,0.23
+1974,SHem,0.03
+1975,SHem,0.02
+1976,SHem,0.01
+1977,SHem,0.24
+1978,SHem,0.11
+1979,SHem,0.25
+1980,SHem,0.34
+1981,SHem,0.27
+1982,SHem,0.23
+1983,SHem,0.38
+1984,SHem,0.27
+1985,SHem,0.24
+1986,SHem,0.23
+1987,SHem,0.4
+1988,SHem,0.41
+1989,SHem,0.28
+1990,SHem,0.37
+1991,SHem,0.4
+1992,SHem,0.31
+1993,SHem,0.28
+1994,SHem,0.26
+1995,SHem,0.32
+1996,SHem,0.4
+1997,SHem,0.42
+1998,SHem,0.51
+1999,SHem,0.28
+2000,SHem,0.29
+2001,SHem,0.43
+2002,SHem,0.55
+2003,SHem,0.49
+2004,SHem,0.41
+2005,SHem,0.5
+2006,SHem,0.46
+2007,SHem,0.48
+2008,SHem,0.41
+2009,SHem,0.59
+2010,SHem,0.55
+2011,SHem,0.47
+2012,SHem,0.49
+2013,SHem,0.56
+2014,SHem,0.58
+2015,SHem,0.63
+2016,SHem,0.73
+2017,SHem,0.67
+2018,SHem,0.66
+2019,SHem,0.75
+2020,SHem,0.67
+2021,SHem,0.55
+2022,SHem,0.62
+2023,SHem,0.86
+2024,SHem,0.91
+2025,SHem,0.89
+1880,N. Extratropics,-0.4
+1881,N. Extratropics,-0.37
+1882,N. Extratropics,-0.33
+1883,N. Extratropics,-0.36
+1884,N. Extratropics,-0.62
+1885,N. Extratropics,-0.67
+1886,N. Extratropics,-0.58
+1887,N. Extratropics,-0.53
+1888,N. Extratropics,-0.43
+1889,N. Extratropics,-0.3
+1890,N. Extratropics,-0.47
+1891,N. Extratropics,-0.42
+1892,N. Extratropics,-0.43
+1893,N. Extratropics,-0.5
+1894,N. Extratropics,-0.33
+1895,N. Extratropics,-0.41
+1896,N. Extratropics,-0.36
+1897,N. Extratropics,-0.37
+1898,N. Extratropics,-0.37
+1899,N. Extratropics,-0.25
+1900,N. Extratropics,-0.22
+1901,N. Extratropics,-0.18
+1902,N. Extratropics,-0.55
+1903,N. Extratropics,-0.48
+1904,N. Extratropics,-0.53
+1905,N. Extratropics,-0.42
+1906,N. Extratropics,-0.27
+1907,N. Extratropics,-0.6
+1908,N. Extratropics,-0.49
+1909,N. Extratropics,-0.54
+1910,N. Extratropics,-0.43
+1911,N. Extratropics,-0.43
+1912,N. Extratropics,-0.6
+1913,N. Extratropics,-0.45
+1914,N. Extratropics,-0.25
+1915,N. Extratropics,-0.24
+1916,N. Extratropics,-0.38
+1917,N. Extratropics,-0.51
+1918,N. Extratropics,-0.42
+1919,N. Extratropics,-0.44
+1920,N. Extratropics,-0.26
+1921,N. Extratropics,0.0
+1922,N. Extratropics,-0.25
+1923,N. Extratropics,-0.16
+1924,N. Extratropics,-0.13
+1925,N. Extratropics,-0.04
+1926,N. Extratropics,0.02
+1927,N. Extratropics,-0.13
+1928,N. Extratropics,-0.08
+1929,N. Extratropics,-0.38
+1930,N. Extratropics,0.04
+1931,N. Extratropics,0.01
+1932,N. Extratropics,0.03
+1933,N. Extratropics,-0.24
+1934,N. Extratropics,0.17
+1935,N. Extratropics,-0.05
+1936,N. Extratropics,-0.03
+1937,N. Extratropics,0.19
+1938,N. Extratropics,0.39
+1939,N. Extratropics,0.22
+1940,N. Extratropics,0.1
+1941,N. Extratropics,0.01
+1942,N. Extratropics,0.12
+1943,N. Extratropics,0.37
+1944,N. Extratropics,0.38
+1945,N. Extratropics,0.11
+1946,N. Extratropics,0.06
+1947,N. Extratropics,0.16
+1948,N. Extratropics,0.13
+1949,N. Extratropics,0.11
+1950,N. Extratropics,-0.05
+1951,N. Extratropics,0.08
+1952,N. Extratropics,0.11
+1953,N. Extratropics,0.36
+1954,N. Extratropics,0.07
+1955,N. Extratropics,0.05
+1956,N. Extratropics,-0.2
+1957,N. Extratropics,0.03
+1958,N. Extratropics,0.08
+1959,N. Extratropics,0.16
+1960,N. Extratropics,0.09
+1961,N. Extratropics,0.19
+1962,N. Extratropics,0.24
+1963,N. Extratropics,0.14
+1964,N. Extratropics,-0.23
+1965,N. Extratropics,-0.19
+1966,N. Extratropics,-0.14
+1967,N. Extratropics,0.12
+1968,N. Extratropics,-0.11
+1969,N. Extratropics,-0.29
+1970,N. Extratropics,-0.11
+1971,N. Extratropics,-0.06
+1972,N. Extratropics,-0.34
+1973,N. Extratropics,0.1
+1974,N. Extratropics,-0.14
+1975,N. Extratropics,0.12
+1976,N. Extratropics,-0.26
+1977,N. Extratropics,0.13
+1978,N. Extratropics,-0.03
+1979,N. Extratropics,-0.03
+1980,N. Extratropics,0.06
+1981,N. Extratropics,0.48
+1982,N. Extratropics,-0.08
+1983,N. Extratropics,0.22
+1984,N. Extratropics,0.01
+1985,N. Extratropics,-0.03
+1986,N. Extratropics,0.1
+1987,N. Extratropics,0.04
+1988,N. Extratropics,0.4
+1989,N. Extratropics,0.4
+1990,N. Extratropics,0.63
+1991,N. Extratropics,0.47
+1992,N. Extratropics,0.09
+1993,N. Extratropics,0.13
+1994,N. Extratropics,0.43
+1995,N. Extratropics,0.7
+1996,N. Extratropics,0.23
+1997,N. Extratropics,0.53
+1998,N. Extratropics,0.78
+1999,N. Extratropics,0.7
+2000,N. Extratropics,0.7
+2001,N. Extratropics,0.8
+2002,N. Extratropics,0.83
+2003,N. Extratropics,0.84
+2004,N. Extratropics,0.73
+2005,N. Extratropics,1.01
+2006,N. Extratropics,0.99
+2007,N. Extratropics,1.12
+2008,N. Extratropics,0.91
+2009,N. Extratropics,0.78
+2010,N. Extratropics,1.03
+2011,N. Extratropics,0.98
+2012,N. Extratropics,1.03
+2013,N. Extratropics,0.94
+2014,N. Extratropics,1.08
+2015,N. Extratropics,1.32
+2016,N. Extratropics,1.54
+2017,N. Extratropics,1.38
+2018,N. Extratropics,1.25
+2019,N. Extratropics,1.43
+2020,N. Extratropics,1.66
+2021,N. Extratropics,1.43
+2022,N. Extratropics,1.52
+2023,N. Extratropics,1.78
+2024,N. Extratropics,1.95
+2025,N. Extratropics,1.92
+1880,Tropics,-0.14
+1881,Tropics,0.09
+1882,Tropics,-0.06
+1883,Tropics,-0.17
+1884,Tropics,-0.15
+1885,Tropics,-0.14
+1886,Tropics,-0.21
+1887,Tropics,-0.32
+1888,Tropics,0.08
+1889,Tropics,0.06
+1890,Tropics,-0.38
+1891,Tropics,-0.09
+1892,Tropics,-0.31
+1893,Tropics,-0.38
+1894,Tropics,-0.36
+1895,Tropics,-0.09
+1896,Tropics,0.07
+1897,Tropics,0.14
+1898,Tropics,-0.24
+1899,Tropics,-0.14
+1900,Tropics,0.15
+1901,Tropics,-0.06
+1902,Tropics,-0.06
+1903,Tropics,-0.31
+1904,Tropics,-0.48
+1905,Tropics,-0.1
+1906,Tropics,-0.21
+1907,Tropics,-0.32
+1908,Tropics,-0.46
+1909,Tropics,-0.5
+1910,Tropics,-0.51
+1911,Tropics,-0.45
+1912,Tropics,-0.22
+1913,Tropics,-0.29
+1914,Tropics,-0.08
+1915,Tropics,-0.02
+1916,Tropics,-0.46
+1917,Tropics,-0.65
+1918,Tropics,-0.35
+1919,Tropics,-0.21
+1920,Tropics,-0.27
+1921,Tropics,-0.27
+1922,Tropics,-0.33
+1923,Tropics,-0.31
+1924,Tropics,-0.27
+1925,Tropics,-0.25
+1926,Tropics,0.0
+1927,Tropics,-0.17
+1928,Tropics,-0.16
+1929,Tropics,-0.29
+1930,Tropics,-0.12
+1931,Tropics,0.07
+1932,Tropics,-0.17
+1933,Tropics,-0.29
+1934,Tropics,-0.26
+1935,Tropics,-0.19
+1936,Tropics,-0.14
+1937,Tropics,-0.06
+1938,Tropics,-0.23
+1939,Tropics,-0.13
+1940,Tropics,0.27
+1941,Tropics,0.48
+1942,Tropics,0.07
+1943,Tropics,-0.1
+1944,Tropics,0.18
+1945,Tropics,0.17
+1946,Tropics,-0.05
+1947,Tropics,-0.06
+1948,Tropics,-0.18
+1949,Tropics,-0.19
+1950,Tropics,-0.29
+1951,Tropics,-0.06
+1952,Tropics,0.02
+1953,Tropics,0.07
+1954,Tropics,-0.22
+1955,Tropics,-0.34
+1956,Tropics,-0.33
+1957,Tropics,0.08
+1958,Tropics,0.21
+1959,Tropics,0.07
+1960,Tropics,0.02
+1961,Tropics,-0.03
+1962,Tropics,-0.05
+1963,Tropics,0.12
+1964,Tropics,-0.14
+1965,Tropics,-0.03
+1966,Tropics,0.08
+1967,Tropics,-0.14
+1968,Tropics,-0.07
+1969,Tropics,0.33
+1970,Tropics,0.07
+1971,Tropics,-0.26
+1972,Tropics,0.17
+1973,Tropics,0.19
+1974,Tropics,-0.2
+1975,Tropics,-0.24
+1976,Tropics,-0.11
+1977,Tropics,0.16
+1978,Tropics,0.08
+1979,Tropics,0.26
+1980,Tropics,0.31
+1981,Tropics,0.18
+1982,Tropics,0.27
+1983,Tropics,0.43
+1984,Tropics,0.18
+1985,Tropics,0.09
+1986,Tropics,0.22
+1987,Tropics,0.58
+1988,Tropics,0.37
+1989,Tropics,0.13
+1990,Tropics,0.37
+1991,Tropics,0.37
+1992,Tropics,0.29
+1993,Tropics,0.32
+1994,Tropics,0.31
+1995,Tropics,0.42
+1996,Tropics,0.32
+1997,Tropics,0.51
+1998,Tropics,0.69
+1999,Tropics,0.2
+2000,Tropics,0.24
+2001,Tropics,0.42
+2002,Tropics,0.6
+2003,Tropics,0.64
+2004,Tropics,0.55
+2005,Tropics,0.62
+2006,Tropics,0.56
+2007,Tropics,0.46
+2008,Tropics,0.38
+2009,Tropics,0.68
+2010,Tropics,0.68
+2011,Tropics,0.37
+2012,Tropics,0.52
+2013,Tropics,0.58
+2014,Tropics,0.67
+2015,Tropics,0.96
+2016,Tropics,1.01
+2017,Tropics,0.81
+2018,Tropics,0.68
+2019,Tropics,0.9
+2020,Tropics,0.85
+2021,Tropics,0.65
+2022,Tropics,0.57
+2023,Tropics,1.06
+2024,Tropics,1.19
+2025,Tropics,0.85
+1880,S. Extratropics,-0.02
+1881,S. Extratropics,-0.07
+1882,S. Extratropics,0.01
+1883,S. Extratropics,-0.01
+1884,S. Extratropics,-0.14
+1885,S. Extratropics,-0.27
+1886,S. Extratropics,-0.21
+1887,S. Extratropics,-0.28
+1888,S. Extratropics,-0.28
+1889,S. Extratropics,-0.16
+1890,S. Extratropics,-0.22
+1891,S. Extratropics,-0.21
+1892,S. Extratropics,-0.08
+1893,S. Extratropics,-0.04
+1894,S. Extratropics,-0.23
+1895,S. Extratropics,-0.25
+1896,S. Extratropics,-0.15
+1897,S. Extratropics,-0.23
+1898,S. Extratropics,-0.26
+1899,S. Extratropics,-0.18
+1900,S. Extratropics,-0.3
+1901,S. Extratropics,-0.3
+1902,S. Extratropics,-0.35
+1903,S. Extratropics,-0.38
+1904,S. Extratropics,-0.44
+1905,S. Extratropics,-0.36
+1906,S. Extratropics,-0.23
+1907,S. Extratropics,-0.29
+1908,S. Extratropics,-0.36
+1909,S. Extratropics,-0.44
+1910,S. Extratropics,-0.38
+1911,S. Extratropics,-0.48
+1912,S. Extratropics,-0.37
+1913,S. Extratropics,-0.35
+1914,S. Extratropics,-0.18
+1915,S. Extratropics,-0.22
+1916,S. Extratropics,-0.23
+1917,S. Extratropics,-0.19
+1918,S. Extratropics,-0.14
+1919,S. Extratropics,-0.22
+1920,S. Extratropics,-0.32
+1921,S. Extratropics,-0.31
+1922,S. Extratropics,-0.27
+1923,S. Extratropics,-0.34
+1924,S. Extratropics,-0.43
+1925,S. Extratropics,-0.38
+1926,S. Extratropics,-0.4
+1927,S. Extratropics,-0.38
+1928,S. Extratropics,-0.39
+1929,S. Extratropics,-0.45
+1930,S. Extratropics,-0.42
+1931,S. Extratropics,-0.43
+1932,S. Extratropics,-0.35
+1933,S. Extratropics,-0.34
+1934,S. Extratropics,-0.26
+1935,S. Extratropics,-0.37
+1936,S. Extratropics,-0.3
+1937,S. Extratropics,-0.22
+1938,S. Extratropics,-0.1
+1939,S. Extratropics,-0.12
+1940,S. Extratropics,-0.07
+1941,S. Extratropics,-0.05
+1942,S. Extratropics,-0.01
+1943,S. Extratropics,0.04
+1944,S. Extratropics,0.05
+1945,S. Extratropics,-0.03
+1946,S. Extratropics,-0.24
+1947,S. Extratropics,-0.16
+1948,S. Extratropics,-0.24
+1949,S. Extratropics,-0.23
+1950,S. Extratropics,-0.14
+1951,S. Extratropics,-0.23
+1952,S. Extratropics,-0.09
+1953,S. Extratropics,-0.18
+1954,S. Extratropics,-0.22
+1955,S. Extratropics,-0.06
+1956,S. Extratropics,0.01
+1957,S. Extratropics,0.02
+1958,S. Extratropics,-0.15
+1959,S. Extratropics,-0.16
+1960,S. Extratropics,-0.2
+1961,S. Extratropics,0.05
+1962,S. Extratropics,-0.07
+1963,S. Extratropics,-0.12
+1964,S. Extratropics,-0.24
+1965,S. Extratropics,-0.13
+1966,S. Extratropics,-0.15
+1967,S. Extratropics,-0.01
+1968,S. Extratropics,-0.08
+1969,S. Extratropics,0.02
+1970,S. Extratropics,0.11
+1971,S. Extratropics,0.13
+1972,S. Extratropics,0.15
+1973,S. Extratropics,0.18
+1974,S. Extratropics,0.18
+1975,S. Extratropics,0.16
+1976,S. Extratropics,0.09
+1977,S. Extratropics,0.25
+1978,S. Extratropics,0.15
+1979,S. Extratropics,0.23
+1980,S. Extratropics,0.38
+1981,S. Extratropics,0.36
+1982,S. Extratropics,0.18
+1983,S. Extratropics,0.25
+1984,S. Extratropics,0.26
+1985,S. Extratropics,0.31
+1986,S. Extratropics,0.2
+1987,S. Extratropics,0.25
+1988,S. Extratropics,0.4
+1989,S. Extratropics,0.34
+1990,S. Extratropics,0.37
+1991,S. Extratropics,0.4
+1992,S. Extratropics,0.27
+1993,S. Extratropics,0.22
+1994,S. Extratropics,0.21
+1995,S. Extratropics,0.22
+1996,S. Extratropics,0.45
+1997,S. Extratropics,0.34
+1998,S. Extratropics,0.32
+1999,S. Extratropics,0.3
+2000,S. Extratropics,0.29
+2001,S. Extratropics,0.42
+2002,S. Extratropics,0.48
+2003,S. Extratropics,0.36
+2004,S. Extratropics,0.32
+2005,S. Extratropics,0.42
+2006,S. Extratropics,0.4
+2007,S. Extratropics,0.48
+2008,S. Extratropics,0.4
+2009,S. Extratropics,0.51
+2010,S. Extratropics,0.48
+2011,S. Extratropics,0.56
+2012,S. Extratropics,0.43
+2013,S. Extratropics,0.54
+2014,S. Extratropics,0.53
+2015,S. Extratropics,0.4
+2016,S. Extratropics,0.49
+2017,S. Extratropics,0.6
+2018,S. Extratropics,0.69
+2019,S. Extratropics,0.64
+2020,S. Extratropics,0.57
+2021,S. Extratropics,0.53
+2022,S. Extratropics,0.71
+2023,S. Extratropics,0.72
+2024,S. Extratropics,0.74
+2025,S. Extratropics,0.92

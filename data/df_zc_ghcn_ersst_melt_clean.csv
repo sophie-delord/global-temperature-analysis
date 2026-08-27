@@ -1,0 +1,323 @@
+Year,zone,valeur
+2003,Arctic,-0.559
+2004,Arctic,-1.593
+2005,Arctic,-0.072
+2006,Arctic,-0.302
+2007,Arctic,0.026
+2008,Arctic,-0.53
+2009,Arctic,-0.637
+2010,Arctic,0.181
+2011,Arctic,0.265
+2012,Arctic,0.07
+2013,Arctic,-0.524
+2014,Arctic,-0.006
+2015,Arctic,-0.039
+2016,Arctic,1.193
+2017,Arctic,0.447
+2018,Arctic,0.105
+2019,Arctic,0.713
+2020,Arctic,0.798
+2021,Arctic,0.011
+2022,Arctic,0.297
+2023,Arctic,0.514
+2024,Arctic,0.839
+2025,Arctic,0.939
+2003,N. Temperate,-0.1
+2004,N. Temperate,-0.129
+2005,N. Temperate,0.143
+2006,N. Temperate,-0.022
+2007,N. Temperate,0.237
+2008,N. Temperate,-0.007
+2009,N. Temperate,-0.479
+2010,N. Temperate,-0.213
+2011,N. Temperate,-0.145
+2012,N. Temperate,-0.156
+2013,N. Temperate,-0.039
+2014,N. Temperate,0.058
+2015,N. Temperate,0.396
+2016,N. Temperate,0.349
+2017,N. Temperate,0.296
+2018,N. Temperate,0.01
+2019,N. Temperate,0.347
+2020,N. Temperate,0.723
+2021,N. Temperate,0.276
+2022,N. Temperate,0.414
+2023,N. Temperate,0.781
+2024,N. Temperate,0.867
+2025,N. Temperate,0.903
+2003,N. Subtropics,-0.214
+2004,N. Subtropics,-0.088
+2005,N. Subtropics,-0.183
+2006,N. Subtropics,-0.055
+2007,N. Subtropics,-0.063
+2008,N. Subtropics,-0.138
+2009,N. Subtropics,-0.072
+2010,N. Subtropics,-0.017
+2011,N. Subtropics,-0.174
+2012,N. Subtropics,-0.014
+2013,N. Subtropics,-0.06
+2014,N. Subtropics,-0.023
+2015,N. Subtropics,0.242
+2016,N. Subtropics,0.318
+2017,N. Subtropics,0.282
+2018,N. Subtropics,0.305
+2019,N. Subtropics,0.246
+2020,N. Subtropics,0.438
+2021,N. Subtropics,0.515
+2022,N. Subtropics,0.519
+2023,N. Subtropics,0.717
+2024,N. Subtropics,0.901
+2025,N. Subtropics,0.776
+2003,N. Tropics,-0.011
+2004,N. Tropics,-0.06
+2005,N. Tropics,0.0
+2006,N. Tropics,-0.054
+2007,N. Tropics,-0.175
+2008,N. Tropics,-0.288
+2009,N. Tropics,0.026
+2010,N. Tropics,0.094
+2011,N. Tropics,-0.236
+2012,N. Tropics,-0.145
+2013,N. Tropics,-0.038
+2014,N. Tropics,0.071
+2015,N. Tropics,0.358
+2016,N. Tropics,0.334
+2017,N. Tropics,0.238
+2018,N. Tropics,0.114
+2019,N. Tropics,0.285
+2020,N. Tropics,0.255
+2021,N. Tropics,0.102
+2022,N. Tropics,0.009
+2023,N. Tropics,0.461
+2024,N. Tropics,0.594
+2025,N. Tropics,0.233
+2003,S. Tropics,0.027
+2004,S. Tropics,-0.101
+2005,S. Tropics,-0.018
+2006,S. Tropics,-0.09
+2007,S. Tropics,-0.158
+2008,S. Tropics,-0.222
+2009,S. Tropics,0.068
+2010,S. Tropics,0.008
+2011,S. Tropics,-0.29
+2012,S. Tropics,-0.068
+2013,S. Tropics,-0.063
+2014,S. Tropics,0.01
+2015,S. Tropics,0.296
+2016,S. Tropics,0.419
+2017,S. Tropics,0.115
+2018,S. Tropics,-0.018
+2019,S. Tropics,0.25
+2020,S. Tropics,0.181
+2021,S. Tropics,-0.059
+2022,S. Tropics,-0.14
+2023,S. Tropics,0.403
+2024,S. Tropics,0.516
+2025,S. Tropics,0.211
+2003,S. Subtropics,-0.18
+2004,S. Subtropics,-0.143
+2005,S. Subtropics,-0.132
+2006,S. Subtropics,-0.11
+2007,S. Subtropics,-0.125
+2008,S. Subtropics,-0.097
+2009,S. Subtropics,-0.022
+2010,S. Subtropics,0.01
+2011,S. Subtropics,0.019
+2012,S. Subtropics,-0.061
+2013,S. Subtropics,0.004
+2014,S. Subtropics,0.101
+2015,S. Subtropics,0.123
+2016,S. Subtropics,0.047
+2017,S. Subtropics,0.136
+2018,S. Subtropics,0.168
+2019,S. Subtropics,0.116
+2020,S. Subtropics,-0.035
+2021,S. Subtropics,0.104
+2022,S. Subtropics,0.165
+2023,S. Subtropics,0.281
+2024,S. Subtropics,0.259
+2025,S. Subtropics,0.342
+2003,S. Temperate,0.058
+2004,S. Temperate,0.05
+2005,S. Temperate,0.004
+2006,S. Temperate,0.013
+2007,S. Temperate,-0.11
+2008,S. Temperate,-0.094
+2009,S. Temperate,-0.033
+2010,S. Temperate,0.024
+2011,S. Temperate,0.008
+2012,S. Temperate,0.02
+2013,S. Temperate,0.056
+2014,S. Temperate,0.015
+2015,S. Temperate,0.017
+2016,S. Temperate,0.098
+2017,S. Temperate,0.197
+2018,S. Temperate,0.231
+2019,S. Temperate,0.233
+2020,S. Temperate,0.218
+2021,S. Temperate,0.154
+2022,S. Temperate,0.227
+2023,S. Temperate,0.28
+2024,S. Temperate,0.364
+2025,S. Temperate,0.375
+2003,Antarctic,-0.286
+2004,Antarctic,-0.688
+2005,Antarctic,0.025
+2006,Antarctic,-0.2
+2007,Antarctic,0.638
+2008,Antarctic,-0.007
+2009,Antarctic,0.343
+2010,Antarctic,-0.108
+2011,Antarctic,0.447
+2012,Antarctic,-0.189
+2013,Antarctic,0.231
+2014,Antarctic,-0.088
+2015,Antarctic,-0.989
+2016,Antarctic,-0.279
+2017,Antarctic,-0.126
+2018,Antarctic,0.268
+2019,Antarctic,0.158
+2020,Antarctic,0.203
+2021,Antarctic,-0.352
+2022,Antarctic,0.432
+2023,Antarctic,-0.027
+2024,Antarctic,0.022
+2025,Antarctic,0.924
+2003,Glob,-0.102
+2004,Glob,-0.184
+2005,Glob,-0.04
+2006,Glob,-0.078
+2007,Glob,-0.053
+2008,Glob,-0.175
+2009,Glob,-0.061
+2010,Glob,0.006
+2011,Glob,-0.11
+2012,Glob,-0.072
+2013,Glob,-0.041
+2014,Glob,0.031
+2015,Glob,0.18
+2016,Glob,0.295
+2017,Glob,0.199
+2018,Glob,0.133
+2019,Glob,0.262
+2020,Glob,0.289
+2021,Glob,0.13
+2022,Glob,0.176
+2023,Glob,0.454
+2024,Glob,0.563
+2025,Glob,0.474
+2003,NHem,-0.144
+2004,NHem,-0.233
+2005,NHem,-0.035
+2006,NHem,-0.072
+2007,NHem,-0.04
+2008,NHem,-0.211
+2009,NHem,-0.168
+2010,NHem,0.009
+2011,NHem,-0.15
+2012,NHem,-0.086
+2013,NHem,-0.092
+2014,NHem,0.031
+2015,NHem,0.29
+2016,NHem,0.416
+2017,NHem,0.282
+2018,NHem,0.152
+2019,NHem,0.327
+2020,NHem,0.455
+2021,NHem,0.254
+2022,NHem,0.273
+2023,NHem,0.607
+2024,NHem,0.765
+2025,NHem,0.599
+2003,SHem,-0.06
+2004,SHem,-0.136
+2005,SHem,-0.045
+2006,SHem,-0.085
+2007,SHem,-0.065
+2008,SHem,-0.139
+2009,SHem,0.045
+2010,SHem,0.003
+2011,SHem,-0.07
+2012,SHem,-0.059
+2013,SHem,0.011
+2014,SHem,0.031
+2015,SHem,0.07
+2016,SHem,0.174
+2017,SHem,0.116
+2018,SHem,0.114
+2019,SHem,0.197
+2020,SHem,0.123
+2021,SHem,0.007
+2022,SHem,0.079
+2023,SHem,0.301
+2024,SHem,0.361
+2025,SHem,0.349
+2003,N. Extratropics,-0.233
+2004,N. Extratropics,-0.348
+2005,N. Extratropics,-0.059
+2006,N. Extratropics,-0.083
+2007,N. Extratropics,0.049
+2008,N. Extratropics,-0.16
+2009,N. Extratropics,-0.297
+2010,N. Extratropics,-0.047
+2011,N. Extratropics,-0.092
+2012,N. Extratropics,-0.046
+2013,N. Extratropics,-0.128
+2014,N. Extratropics,0.005
+2015,N. Extratropics,0.244
+2016,N. Extratropics,0.471
+2017,N. Extratropics,0.312
+2018,N. Extratropics,0.177
+2019,N. Extratropics,0.355
+2020,N. Extratropics,0.588
+2021,N. Extratropics,0.356
+2022,N. Extratropics,0.448
+2023,N. Extratropics,0.705
+2024,N. Extratropics,0.879
+2025,N. Extratropics,0.842
+2003,Tropics,0.008
+2004,Tropics,-0.08
+2005,Tropics,-0.009
+2006,Tropics,-0.072
+2007,Tropics,-0.167
+2008,Tropics,-0.255
+2009,Tropics,0.047
+2010,Tropics,0.051
+2011,Tropics,-0.263
+2012,Tropics,-0.107
+2013,Tropics,-0.05
+2014,Tropics,0.041
+2015,Tropics,0.327
+2016,Tropics,0.377
+2017,Tropics,0.176
+2018,Tropics,0.048
+2019,Tropics,0.267
+2020,Tropics,0.218
+2021,Tropics,0.022
+2022,Tropics,-0.066
+2023,Tropics,0.432
+2024,Tropics,0.555
+2025,Tropics,0.222
+2003,S. Extratropics,-0.118
+2004,S. Extratropics,-0.159
+2005,S. Extratropics,-0.063
+2006,S. Extratropics,-0.082
+2007,S. Extratropics,-0.003
+2008,S. Extratropics,-0.083
+2009,S. Extratropics,0.03
+2010,S. Extratropics,-0.001
+2011,S. Extratropics,0.077
+2012,S. Extratropics,-0.053
+2013,S. Extratropics,0.059
+2014,S. Extratropics,0.044
+2015,S. Extratropics,-0.081
+2016,S. Extratropics,0.01
+2017,S. Extratropics,0.117
+2018,S. Extratropics,0.203
+2019,S. Extratropics,0.161
+2020,S. Extratropics,0.084
+2021,S. Extratropics,0.05
+2022,S. Extratropics,0.225
+2023,S. Extratropics,0.234
+2024,S. Extratropics,0.257
+2025,S. Extratropics,0.441
