@@ -136,6 +136,8 @@ Dans le cadre du projet collectif, j'ai pris en charge l'intégralité de la con
 
 À partir des tables préparées par les différents membres de l'équipe, j'ai réalisé leur intégration et leurs transformations dans Power Query, puis construit le modèle de données nécessaire aux analyses. J'ai également créé les relations entre les tables, les mesures DAX, les visualisations, les filtres et les interactions du rapport.
 
+Des tooltips personnalisés ont également été créés afin d'afficher des informations complémentaires au survol de certains visuels, sans surcharger les pages du rapport.
+
 La conception des trois pages du rapport, leur organisation et leur mise en forme ont également été réalisées par mes soins. **L'identité visuelle du rapport Power BI a été adaptée à partir de la charte graphique utilisée pour le rapport collectif, afin de conserver une cohérence visuelle entre les différents livrables du projet.** Les autres membres du groupe sont intervenus en fin de réalisation pour une relecture du rapport et quelques ajustements d'apparence.
 
 Le rapport est organisé autour de trois axes d'analyse :
